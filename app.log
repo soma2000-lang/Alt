@@ -1,0 +1,4 @@
+[2024-09-21T11:09:41.882Z] Server running on http://localhost:3000
+[2024-09-21T11:09:41.882Z] Send a POST request to /start to begin sending data
+[2024-09-21T11:09:41.882Z] Send a POST request to /stop to stop sending data
+[2024-09-21T11:09:56.760Z] Finished reading JSON file.
